@@ -1,2 +1,0 @@
-# ygyp
-A Cloud Disk.
