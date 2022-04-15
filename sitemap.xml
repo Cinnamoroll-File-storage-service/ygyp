@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset>
+    <url>
+        <loc>https://ygyp.xyz/</loc>
+        <mobile:mobile type="pc,mobile"/>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://ygyp.xyz/index.html</loc>
+        <mobile:mobile type="pc,mobile"/>
+        <changefreq>daily</changefreq>
+    </url>
+    <url>
+        <loc>https://ygyp.xyz/404.html</loc>
+        <mobile:mobile type="pc,mobile"/>
+        <changefreq>daily</changefreq>
+    </url>
+</urlset>
